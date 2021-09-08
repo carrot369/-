@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-08T03:53:42.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="CB_zqKUpduK1me0ZlnKg" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-08T07:34:01.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="5p8eVT1u0S7E8G4bkC2d" version="15.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="zN8sy_I-Qj54PKLklImm-28" value="上传文件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zN8sy_I-Qj54PKLklImm-29" value="前端同时上传文件到多个minIOServer节点&lt;br&gt;性能瓶颈内存，带宽&lt;br&gt;&lt;br&gt;难点对接客户服务器的时候，不能使用这种方式&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="420" width="260" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
